@@ -1,0 +1,27 @@
+{
+  "name": "es6-playground",
+  "version": "0.0.0",
+  "description": "A sandbox for testing out ES6 Harmony (JavaScript) with a transpiler, and a collection of resources about it.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:m3-group/es6-playground.git"
+  },
+  "keywords": [
+    "ES6",
+    "JavaScript",
+    "Harmony",
+    "ECMAScript",
+    "Playground",
+    "Testing",
+    "Features"
+  ],
+  "author": "Keith Rosenberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m3-group/es6-playground/issues"
+  }
+}
