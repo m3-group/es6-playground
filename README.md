@@ -42,3 +42,6 @@ or
 ```
 grunt build
 ```
+
+## Resources
+Initial inspiration for this repo came from [globaldev](http://globaldev.co.uk/2013/09/es6-part-1/)

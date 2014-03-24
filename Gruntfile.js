@@ -64,6 +64,7 @@
       jshint: {
         files: ['Gruntfile.js', '<%= meta.sourceDir %>/<%= meta.jsDir %>/**/*.js', '<%= meta.testDir %>/**/*.js'],
         options: {
+          // http://www.jshint.com/docs/options/
           esnext: true, /* Important for ES6 Harmony not to throw errors */
           globals: {
             jQuery: true,
@@ -85,6 +86,8 @@
 
     // https://github.com/gruntjs/grunt-contrib-copy
     grunt.loadNpmTasks('grunt-contrib-copy');
+
+    // https://github.com/gruntjs/grunt-contrib-jshint
     grunt.loadNpmTasks('grunt-contrib-jshint');
     grunt.loadNpmTasks('grunt-contrib-qunit');
     grunt.loadNpmTasks('grunt-contrib-watch');
