@@ -46,3 +46,4 @@ grunt build
 ## Resources
 - Initial inspiration for this repo came from [globaldev](http://globaldev.co.uk/2013/09/es6-part-1/)
 - [Addy Osmani's collection of ES6 articles](http://addyosmani.com/blog/ecmascript-6-resources-for-the-curious-javascripter/)
+- [es6fiddle](http://www.es6fiddle.net/) is a cute in-browser way to play with ES6
